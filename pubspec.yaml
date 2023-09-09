@@ -1,7 +1,7 @@
 name: another_tcgplayer
 description: Flutter package for the TCG Player APIs .
 version: 1.0.0
-homepage:
+homepage: https://github.com/CodeMinion/another_tcgplayer
 
 environment:
   sdk: '>=3.1.0 <4.0.0'
